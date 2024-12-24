@@ -1,0 +1,93 @@
+
+[
+  {
+    "imageUrl": "../assets/images/noimage.png",
+    "description": "Product 1 Description",
+    "upc": "111111",
+    "ordered": "10",
+    "min": "5",
+    "onHand": "50",
+    "max": "100"
+  },
+  {
+    "imageUrl": "../assets/images/noimage.png",
+    "description": "Product 2 Description",
+    "upc": "222222",
+    "ordered": "20",
+    "min": "10",
+    "onHand": "60",
+    "max": "120"
+  },
+  {
+    "imageUrl": "../assets/images/noimage.png",
+    "description": "Product 3 Description",
+    "upc": "333333",
+    "ordered": "30",
+    "min": "15",
+    "onHand": "70",
+    "max": "140"
+  },
+  {
+    "imageUrl": "../assets/images/noimage.png",
+    "description": "Product 4 Description",
+    "upc": "444444",
+    "ordered": "40",
+    "min": "20",
+    "onHand": "80",
+    "max": "160"
+  },
+  {
+    "imageUrl": "../assets/images/noimage.png",
+    "description": "Product 5 Description",
+    "upc": "555555",
+    "ordered": "50",
+    "min": "25",
+    "onHand": "90",
+    "max": "180"
+  },
+  {
+    "imageUrl": "../assets/images/noimage.png",
+    "description": "Product 6 Description",
+    "upc": "666666",
+    "ordered": "60",
+    "min": "30",
+    "onHand": "100",
+    "max": "200"
+  },
+  {
+    "imageUrl": "../assets/images/noimage.png",
+    "description": "Product 7 Description",
+    "upc": "777777",
+    "ordered": "70",
+    "min": "35",
+    "onHand": "110",
+    "max": "220"
+  },
+  {
+    "imageUrl": "../assets/images/noimage.png",
+    "description": "Product 8 Description",
+    "upc": "888888",
+    "ordered": "80",
+    "min": "40",
+    "onHand": "120",
+    "max": "240"
+  },
+  {
+    "imageUrl": "../assets/images/noimage.png",
+    "description": "Product 9 Description",
+    "upc": "999999",
+    "ordered": "90",
+    "min": "45",
+    "onHand": "130",
+    "max": "260"
+  },
+  {
+    "imageUrl": "../assets/images/noimage.png",
+    "description": "Product 10 Description",
+    "upc": "101010",
+    "ordered": "100",
+    "min": "50",
+    "onHand": "140",
+    "max": "280"
+  }
+]
